@@ -1,0 +1,5 @@
+<launch>
+    <param name="ROS_IP" value="0.0.0.0" />
+    <node pkg="unity_teleop_key" type="teleop_key.py" name="teleop_key"  output="screen"/>
+    <node name="server_endpoint" pkg="ros_tcp_endpoint" type="default_server_endpoint.py" args="--wait" output="screen" respawn="true" />
+</launch>
