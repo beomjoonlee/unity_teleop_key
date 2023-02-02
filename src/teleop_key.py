@@ -47,9 +47,9 @@ Moving around:
    a    s    d        g    h
         x
 
-w/x : increase/decrease linear velocity x
-a/d : increase/decrease linear velocity y
-g/h : increase/decrease angular velocity
+w/x : increase/decrease linear velocity z
+a/d : decrease/increase linear velocity x
+g/h : decrease/increase angular velocity
 
 space key, s : force stop
 
