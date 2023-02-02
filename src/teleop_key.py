@@ -44,7 +44,7 @@ Control Your Robot!
 ---------------------------
 Moving around:
         w
-   a    s    d
+   a    s    d        g    h
         x
 
 w/x : increase/decrease linear velocity x
